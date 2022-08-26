@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/divya-gariga/Github-packages-demo/issues"
   },
-  "homepage": "https://github.com/divya-gariga/Github-packages-demo#readme"
+  "homepage": "https://github.com/divya-gariga/Github-packages-demo#readme",
+  "publishConfig": {
+   "@divya-gariga:registry": "https://npm.pkg.github.com"
+ }
 }
