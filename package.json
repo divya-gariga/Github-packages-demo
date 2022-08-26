@@ -1,5 +1,5 @@
 {
-  "name": "divya-gariga/github-packages-demo",
+  "name": "@divya-gariga/github-packages-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/divya-gariga/Github-packages-demo#readme",
   "publishConfig": {
-   "divya-gariga:registry": "https://npm.pkg.github.com"
+   "@divya-gariga:registry": "https://npm.pkg.github.com/divya-gariga"
  }
 }
