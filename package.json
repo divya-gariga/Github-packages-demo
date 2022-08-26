@@ -1,0 +1,19 @@
+{
+  "name": "@divya-gariga/github-packages-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divya-gariga/Github-packages-demo.git"
+  },
+  "author": "divya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divya-gariga/Github-packages-demo/issues"
+  },
+  "homepage": "https://github.com/divya-gariga/Github-packages-demo#readme"
+}
